@@ -1,4 +1,4 @@
-package com.interview.news.client;
+package com.interview.news.controller;
 
 public class NewsController {
 
